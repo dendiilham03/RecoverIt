@@ -13,7 +13,7 @@ RecoverIt helps abuse the Windows service failure recovery function to execute a
 
 ## Demo Video
 
-Youtube RecoverIt: [https://youtu.be/mSywzuGsirU](https://youtu.be/mSywzuGsirU)
+Youtube RecoverIt: [https://youtu.be/zu3lchEOrxE](https://youtu.be/zu3lchEOrxE)
 
 ## Author:
 
